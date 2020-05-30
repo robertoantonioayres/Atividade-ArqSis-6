@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Roberto Antonio
+Build-Jdk: 12.0.1
+Implementation-Title: usjt_ccp3_consumo_img
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.usjt
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/usjt_ccp3_consumo_img
+Created-By: Maven Integration for Eclipse
+
